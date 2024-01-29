@@ -42,6 +42,7 @@ public class HexagonalPrismApp
          
       else
       {
+      
       }
       
       System.out.print("\t height: ");
@@ -57,6 +58,7 @@ public class HexagonalPrismApp
          
       else
       {
+      
       }
            
       HexagonalPrism prism = new HexagonalPrism(label, edge, height);

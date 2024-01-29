@@ -1,6 +1,5 @@
 import java.text.DecimalFormat;
 
-
 /**
  * Program that stores label, edge and height.
  *
